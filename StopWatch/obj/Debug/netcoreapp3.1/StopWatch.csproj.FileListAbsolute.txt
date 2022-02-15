@@ -1,0 +1,13 @@
+C:\Users\Vinicius.Carmo\Documents\Baltaio\StopWatch\bin\Debug\netcoreapp3.1\StopWatch.exe
+C:\Users\Vinicius.Carmo\Documents\Baltaio\StopWatch\bin\Debug\netcoreapp3.1\StopWatch.deps.json
+C:\Users\Vinicius.Carmo\Documents\Baltaio\StopWatch\bin\Debug\netcoreapp3.1\StopWatch.runtimeconfig.json
+C:\Users\Vinicius.Carmo\Documents\Baltaio\StopWatch\bin\Debug\netcoreapp3.1\StopWatch.runtimeconfig.dev.json
+C:\Users\Vinicius.Carmo\Documents\Baltaio\StopWatch\bin\Debug\netcoreapp3.1\StopWatch.dll
+C:\Users\Vinicius.Carmo\Documents\Baltaio\StopWatch\bin\Debug\netcoreapp3.1\StopWatch.pdb
+C:\Users\Vinicius.Carmo\Documents\Baltaio\StopWatch\obj\Debug\netcoreapp3.1\StopWatch.csprojAssemblyReference.cache
+C:\Users\Vinicius.Carmo\Documents\Baltaio\StopWatch\obj\Debug\netcoreapp3.1\StopWatch.AssemblyInfoInputs.cache
+C:\Users\Vinicius.Carmo\Documents\Baltaio\StopWatch\obj\Debug\netcoreapp3.1\StopWatch.AssemblyInfo.cs
+C:\Users\Vinicius.Carmo\Documents\Baltaio\StopWatch\obj\Debug\netcoreapp3.1\StopWatch.csproj.CoreCompileInputs.cache
+C:\Users\Vinicius.Carmo\Documents\Baltaio\StopWatch\obj\Debug\netcoreapp3.1\StopWatch.dll
+C:\Users\Vinicius.Carmo\Documents\Baltaio\StopWatch\obj\Debug\netcoreapp3.1\StopWatch.pdb
+C:\Users\Vinicius.Carmo\Documents\Baltaio\StopWatch\obj\Debug\netcoreapp3.1\StopWatch.genruntimeconfig.cache
